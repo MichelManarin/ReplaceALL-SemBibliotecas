@@ -2,3 +2,6 @@
 
 ## Projeto
 replaceALL sem bibliotecas... 
+
+## Linguagem
+Pascal (Delphi xe3)... 
